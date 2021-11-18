@@ -1,2 +1,0 @@
-D:\Work\UEProjects\TagStateMachine\Plugins\StateMachine\Intermediate\Build\Win64\UE4Editor\Development\StateMachine\Definitions.StateMachine.h
-D:\Work\UEProjects\TagStateMachine\Plugins\StateMachine\Source\StateMachine\Public\StateMachine.h
